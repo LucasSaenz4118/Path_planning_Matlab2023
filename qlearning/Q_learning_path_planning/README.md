@@ -1,4 +1,4 @@
-# Funcionamiento
+# Simulaciones
 
 El script ```qLearning_path.m``` contiene el algoritmo de Q-learning utilizado. Mientras que ```qLearning.m``` es la función que ocupa el programa principal para generar la ruta según su tabla Q.
 <p align="center">
@@ -7,3 +7,7 @@ El script ```qLearning_path.m``` contiene el algoritmo de Q-learning utilizado. 
 </p>
 
 En estos ejemplos se encuentra el path en dos mapas diferentes, el punto de inicio es el rojo y el punto objetivo es el azul.
+
+# Diagramas de Flujo
+
+Se presentan los diagramas de flujo para los scripts ```qLearning_path.m``` y ```qLearning.m```.
