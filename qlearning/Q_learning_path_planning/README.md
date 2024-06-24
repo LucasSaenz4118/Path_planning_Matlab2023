@@ -2,4 +2,4 @@
 
 El script ```qLearning_path.m``` contiene el algoritmo de Q-learning utilizado. Mientras que ```qLearning.m``` es la función que ocupa el programa principal para generar la ruta según su tabla Q.
 
-![Ejemplo de planificación]()
+![Ejemplo de planificación](qlearning/Q_learning_path_planning/p2_gridmap_20x30_scene1.png)
