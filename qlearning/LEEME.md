@@ -6,7 +6,7 @@ La carpeta cuenta con el siguiente contenido:
 ├─Q_learning_path_planning
 │   ├─benchmark_algorithms.m
 │   ├─Comprobar_alpha_gamma.m
-│   ├─Pruebas.m
+│   └─Pruebas.m
 ```
 
 ## Q_learning_path_planning 
