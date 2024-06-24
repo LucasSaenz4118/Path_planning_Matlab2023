@@ -15,5 +15,5 @@ Script de Q-learning, implementación adaptativa.
 ## ```entrenamiento_q_opt.m```
 Script de Q-learning, implementación híbrida.
 
-## ```qLearning2.m``
+## ```qLearning2.m```
 Script que genera el path a partir del entrenamiento de la tabla Q de alguno de los scripts anteriores.
