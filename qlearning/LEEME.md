@@ -10,7 +10,7 @@ La carpeta cuenta con el siguiente contenido:
 ```
 
 ## Q_learning_path_planning 
-Se encuentra el algoritmo principal de Q-learning
+Directorio en donde se encuentra el algoritmo principal de Q-learning
 
 ## benchmark_algorithms.m
 Se realiza una comparación entre algoritmos de planificación de ruta, se ocupan A*, D*, D* Lite, Q-learning, Dijkstra y RRT.
