@@ -16,7 +16,8 @@ Directorio en donde se encuentra el algoritmo principal de Q-learning
 Se realiza una comparación entre algoritmos de planificación de ruta, se ocupan A*, D*, D* Lite, Q-learning, Dijkstra y RRT.
 <p align="center">
   <img src="https://github.com/LucasSaenz4118/Path_planning_Matlab2024/blob/bd0c89e39a51e70d356132a829e1d2923d7373bc/qlearning/Imagenes/benchmark.png" alt="Benchmark" width="30%" />
-<\p>
+</p>
+  
 ## Comprobar_alpha_gamma.m
 Programa para encontrar los mejores valores para alpha y gamma, donde alpha y gamma se ingresan como parámetro al script de entrenamiento_Q.m.
 <p align="center">
